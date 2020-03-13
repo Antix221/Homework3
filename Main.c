@@ -45,4 +45,4 @@ int main()
 	free(a);
 	getchar();
 	return 0;
-}
+}     
